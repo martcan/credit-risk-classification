@@ -1,2 +1,2 @@
 # credit-risk-
-using actual activities examples for the code.
+Using actual activities examples for the code reference
